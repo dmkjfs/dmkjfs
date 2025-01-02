@@ -15,7 +15,7 @@ Hello👋👋 My name is Ilya and I'm a junior backend developer from Russia
 
 ### 🔥 Tools
 
-![stack](https://skillicons.dev/icons?i=python,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,)
+![stack](https://skillicons.dev/icons?i=python,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css)
 
 
 ### 🚀 My stats
