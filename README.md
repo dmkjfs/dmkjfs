@@ -10,7 +10,7 @@ Hello👋👋 My name is Ilya and I'm a junior backend developer from Russia
 
 ### 👥 I'm contributing to
 
-- [SeaMusic](https://github.com/orgs/seamusic-official/) - web site for music contributions
+- [SeaMusic](https://github.com/orgs/seamusic-official/) - web site for interactions beetwen artists and producers(finding collaborations, beats marketplace, early releasing, etc.)
 
 
 ### 🔥 Tools
