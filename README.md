@@ -1,6 +1,6 @@
 ## 🧒 About me
 
-Hello👋👋 My name is Ilya and I'm a junior backend developer from Russia
+Hello👋👋 My name is Ilya and I'm a junior+ backend developer from Russia with 2 YoE
 
 
 ## 🧑‍💻 I'm currently working on
