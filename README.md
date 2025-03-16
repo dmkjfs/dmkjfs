@@ -8,24 +8,10 @@ Hello👋👋 My name is Ilya and I'm a junior backend developer from Russia
 - [ITCollab](https://github.com/it-collab) - platform for IT startups and volunteer projects
 
 
-## 👥 I'm contributing to
-
-- [SeaMusic](https://github.com/orgs/seamusic-official/) - web site for interactions beetwen artists and producers(finding collaborations, beats marketplace, early releasing, etc.)
-
-
 ## 🔥 Stack
 
 ### 🛠️ Tools
 ![stack](https://skillicons.dev/icons?i=python,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css)
-
-### 🗒️ Architecture design
-- **`linear`**
-- **`onion`**
-- **`DDD`**
-- **`monolite`**
-- **`modular monolite`**
-- **`microservices`**
-
 
 ## 🚀 My stats
 
