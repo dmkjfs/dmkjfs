@@ -1,16 +1,16 @@
-## Hi there 👋
+### About me
+- name: Ilya
+- age: 16
+- location: Russia
+- timezone: Moscow Standart Time (UTC +03:00) 
 
-<!--
-**dmkjfs/dmkjfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My projects
+- [statloc](https://github.com/statloc) - Fast tool for collecting projects statistics
+  - [core](https://github.com/statloc/core) \[pre-released]
+  - [cli](https://github.com/statloc/cli) \[not released]
+  - [server](https://github.com/statloc/server) \[not released]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Email: [dmkjfs@gmail.com](mailto:dmkjfs@gmail.com)
+- Telegram: [@dmkjfs](https://t.me/dmkjfs)
+- Discord: [@dmkjfs](https://discord.com/users/1010842597092237313)
