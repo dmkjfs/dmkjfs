@@ -1,6 +1,6 @@
 ## 🧒 About me
 
-Hello👋👋 My name is Ilya and I'm a junior+ backend developer with 3 years of experience
+Hello👋👋 My name is Ilya and I'm a junior+ backend developer
 
 
 ## 🧑‍💻 I'm currently working on
