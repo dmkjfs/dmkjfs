@@ -10,7 +10,7 @@ Hello👋👋 My name is Ilya and I'm a junior+ backend developer
 
 ## 🔥 Stack
 
-![stack](https://skillicons.dev/icons?i=python,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css)
+![stack](https://skillicons.dev/icons?i=python,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css,)
 
 
 ## 🚀 My stats
@@ -25,7 +25,6 @@ Hello👋👋 My name is Ilya and I'm a junior+ backend developer
 ## ☎️ Contact me via
 
 - [Telegram](https://t.me/dmkjfs)
-- [Discord](https://discordapp.com/users/1010842597092237313)
-- [Email](mailto:ikztsff@gmail.com)
+- [Email](mailto:dmkjfs@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
