@@ -12,7 +12,7 @@ Hello👋👋 My name is Ilya and I'm a junior+ backend developer
 
 ## 🔥 Stack
 
-![stack](https://skillicons.dev/icons?i=python,go,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css,scss,)
+![stack](https://skillicons.dev/icons?i=python,go,fastapi,flask,bots,bash,postgres,mongodb,redis,git,docker,linux,html,css,scss,figma)
 
 
 ## 🚀 My stats
