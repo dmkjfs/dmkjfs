@@ -1,6 +1,6 @@
 ## 🧒 About me
 
-Hello👋👋 My name is Ilya and I'm a junior+ backend developer
+Hello👋👋 My name is Ilya and I'm a junior+ backend developer (i use arch btw)
 
 
 ## 🧑‍💻 I'm currently working on
