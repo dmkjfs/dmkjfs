@@ -7,7 +7,6 @@ Hello👋👋 My name is Ilya and I'm a junior+ backend developer (i use arch bt
 
 - [ITCollab](https://github.com/it-collab) - platform for IT startups and volunteer projects
 - [docker-explorer](https://github.com/docker-explorer) - gRPC-compatible S3-like file storage service
-- [PyStepikConnect](https://github.com/PyStepikConnect) - python library for using Stepik REST API
 
 
 ## 🔥 Stack
