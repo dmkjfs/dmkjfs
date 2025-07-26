@@ -6,7 +6,6 @@ Hello👋👋 My name is Ilya and I'm a junior+ backend developer (i use arch bt
 ## 🧑‍💻 I'm currently working on
 
 - [ITCollab](https://github.com/it-collab) - platform for IT startups and volunteer projects
-- [docker-explorer](https://github.com/docker-explorer) - gRPC-compatible S3-like file storage service
 
 
 ## 🔥 Stack
