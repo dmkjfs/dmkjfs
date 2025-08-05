@@ -1,12 +1,6 @@
 ## 🧒 About me
 
-Hello👋👋 My name is Ilya and I'm a junior+ backend developer (i use arch btw)
-
-
-## 🧑‍💻 I'm currently working on
-
-- [ITCollab](https://github.com/it-collab) - platform for IT startups and volunteer projects
-
+Hello👋👋 My name is Ilya and I'm a backend developer (i use arch btw)
 
 ## 🔥 Stack
 
