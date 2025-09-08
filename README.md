@@ -4,7 +4,7 @@ Hello👋👋 My name is Ilya and I'm a backend developer (i use arch btw)
 
 ## 🔥 Stack
 
-![stack](https://skillicons.dev/icons?i=go,python,linux,docker,postgres,mysql,mongodb,redis,)
+![stack](https://skillicons.dev/icons?i=go,python,linux,docker,postgres,mysql,mongodb,redis)
 
 
 ## 🚀 My stats
