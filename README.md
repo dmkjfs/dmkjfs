@@ -7,8 +7,8 @@
 ### My projects
 - [statloc](https://github.com/statloc) - Fast tool for collecting projects statistics
   - [core](https://github.com/statloc/core) \[pre-released]
-  - [cli](https://github.com/statloc/cli) \[not released]
-  - [server](https://github.com/statloc/server) \[not released]
+  - [cli](https://github.com/statloc/cli) \[pre-released]
+  - [github action](https://github.com/statloc/action) \[not released]
 
 ### Contacts
 - Email: [dmkjfs@gmail.com](mailto:dmkjfs@gmail.com)
